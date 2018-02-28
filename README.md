@@ -2,7 +2,7 @@
 
 Stuff for labs and assignment for Big Data class at Poly. 
 
-##Credentials
+## Credentials
 
 User: bigdata
 Pass: bigdata
@@ -43,7 +43,7 @@ Without `<optional dir>`, the file will be added on the root inside
 
 # Troubleshooting
 
-## File exists
+## File exists error
 
 In eclipse, check left side and open the folder in 'DFS Locations/MapRed
 Location/user/bigdata` and delete
